@@ -1,0 +1,53 @@
+Order Lines/Order Reference,Order Lines/Created on,Order Lines/Salesperson,Order Lines/Customer,Order Lines/Product/Product Category,Order Lines/Product,Order Lines/Product Qty,Order Lines/Delivered Quantity,Order Lines/Product/Cost,Order Lines/Unit Price,Order Lines/Discount (%),Order Lines/Subtotal,Order Lines/Invoice Status,Order Lines/Order Status
+S444906,2025-01-30 07:40:17,SILMI KAFFAH,Herbal Falah (SHOPEE),Produk Non Premium,[SHN358] Megabumin,1,1,28000,35788,0,35788,Fully Invoiced,sale
+S444903,2025-01-30 07:32:26,NURVIDA INDRIYANI,afwah herbal ( shopee ),Produk Non Premium,[SHN062] Cuka Apel TAHESTA,1,1,42138.68,49607,0,49607,Fully Invoiced,sale
+S444902,2025-01-30 07:31:12,NURVIDA INDRIYANI,afwah herbal ( shopee ),Produk Non Premium,[SHN062] Cuka Apel TAHESTA,1,1,42138.68,49607,0,49607,Fully Invoiced,sale
+S444335,2025-01-28 10:39:52,DENDY ARDIANSYAH,Shopee - Sehato Official,Produk Non Premium,[SHN314] Madu Vitabumin,8,8,46513.46,50985,0,407880,Fully Invoiced,sale
+S444335,2025-01-28 10:39:52,DENDY ARDIANSYAH,Shopee - Sehato Official,Produk Non Premium,[SHN3777] Madu Vitabumin 60 ml,0,0,24500,26200,0,,Fully Invoiced,sale
+S444121,2025-01-28 08:14:58,NURVIDA INDRIYANI,afwah herbal ( shopee ),Produk Non Premium,[SHN062] Cuka Apel TAHESTA,2,2,42138.68,49607,0,99214,Fully Invoiced,sale
+S444120,2025-01-28 08:13:27,NURVIDA INDRIYANI,afwah herbal ( shopee ),Produk Non Premium,[SHN062] Cuka Apel TAHESTA,1,1,42138.68,49607,0,49607,Fully Invoiced,sale
+S444119,2025-01-28 08:11:40,NURVIDA INDRIYANI,afwah herbal ( shopee ),Produk Non Premium,[SHN062] Cuka Apel TAHESTA,3,3,42138.68,49607,0,148821,Fully Invoiced,sale
+S444118,2025-01-28 08:10:06,NURVIDA INDRIYANI,afwah herbal ( shopee ),Produk Non Premium,[SHN359] Mengkudu Pom Tazakka,3,3,31500,47500,0,142500,Fully Invoiced,sale
+S444116,2025-01-28 06:48:07,DENDY ARDIANSYAH,Shopee - Sehato Official,Produk Non Premium,[SHN009] BMOP (Buah Merah) 60Cpl Griya Anur,1,0,19002.98,46000,0,46000,Nothing to Invoice,cancel
+S443662,2025-01-25 13:26:44,DENDY ARDIANSYAH,Shopee - Sehato Official,Produk Premium,[SHN870] Madu Masambung Sherin 350gr,2,2,25128.48,56000,0,112000,Fully Invoiced,sale
+S443662,2025-01-25 13:26:44,DENDY ARDIANSYAH,Shopee - Sehato Official,Produk Non Premium,[SH0817] Madu Flek Batuk Al waly,1,1,13795.69,17000,0,17000,Fully Invoiced,sale
+S443662,2025-01-25 13:26:44,DENDY ARDIANSYAH,Shopee - Sehato Official,Produk Non Premium,[SHN627] Gemuk Badan 60 Kapsul Al Mabruroh,1,1,30150,34000,0,34000,Fully Invoiced,sale
+S443662,2025-01-25 13:26:44,DENDY ARDIANSYAH,Shopee - Sehato Official,Produk Non Premium,[SHN510] Syifa Aini 1 pedih,1,1,12500,18000,0,18000,Fully Invoiced,sale
+S443656,2025-01-25 13:21:23,DENDY ARDIANSYAH,Shopee - Sehato Official,Produk Premium,[SH8654] Madu An Nahl Hutan 500gr,2,2,10663.79,12571.2,0,25142,Fully Invoiced,sale
+S443422,2025-01-25 06:54:41,DENDY ARDIANSYAH,Shopee - Sehato Official,Produk Premium,[SH8654] Madu An Nahl Hutan 500gr,2,2,10663.79,12571.2,0,25142,Fully Invoiced,sale
+S443424,2025-01-25 08:19:44,NURVIDA INDRIYANI,afwah herbal ( shopee ),Produk Non Premium,[SHN062] Cuka Apel TAHESTA,1,1,42138.68,49607,0,49607,Fully Invoiced,sale
+S443021,2025-01-24 07:52:21,SILMI KAFFAH,Herbal Falah (SHOPEE),Produk Premium,[MEC058] Teh Celup Insulin Mecca POUCH,1,1,3802.54,9350,0,9350,Fully Invoiced,sale
+S443021,2025-01-24 07:52:21,SILMI KAFFAH,Herbal Falah (SHOPEE),Produk Premium,[MEC057] Teh Celup Kelor Mecca Pouch,1,1,5478.03,9900,0,9900,Fully Invoiced,sale
+S443021,2025-01-24 07:52:21,SILMI KAFFAH,Herbal Falah (SHOPEE),Produk Non Premium,[SHN032] Bumbu Kaldu Halawa Ayam Renceng,2,2,9240,12098,0,24196,Fully Invoiced,sale
+S443018,2025-01-24 07:44:58,NURVIDA INDRIYANI,afwah herbal ( shopee ),Produk Non Premium,[SHN511] Syifa Aini 2,1,1,9000,12722,0,12722,Fully Invoiced,sale
+S443018,2025-01-24 07:44:58,NURVIDA INDRIYANI,afwah herbal ( shopee ),Produk Non Premium,[SH0387] Habbatus Sauda Propolis Trigona 100 POM JNH,1,1,25000,31000,0,31000,Fully Invoiced,sale
+S443018,2025-01-24 07:44:58,NURVIDA INDRIYANI,afwah herbal ( shopee ),Produk Non Premium,[SHN230] Madu An Nahl PLUS 1 Kg,1,1,23415.16,37750,0,37750,Fully Invoiced,sale
+S443018,2025-01-24 07:44:58,NURVIDA INDRIYANI,afwah herbal ( shopee ),Produk Non Premium,[SHN215] MECCA Madu Batuk 150gr,1,1,13825.48,26734,0,26734,Fully Invoiced,sale
+S442632,2025-01-23 07:31:22,NURVIDA INDRIYANI,afwah herbal ( shopee ),Produk Non Premium,[SHN062] Cuka Apel TAHESTA,1,1,42138.68,49607,0,49607,Fully Invoiced,sale
+S442196,2025-01-22 08:07:53,NURVIDA INDRIYANI,afwah herbal ( shopee ),Produk Non Premium,[SHN062] Cuka Apel TAHESTA,1,1,42138.68,49500,0,49500,Fully Invoiced,sale
+S442194,2025-01-22 08:06:14,NURVIDA INDRIYANI,afwah herbal ( shopee ),Produk Non Premium,[SHN062] Cuka Apel TAHESTA,1,1,42138.68,49500,0,49500,Fully Invoiced,sale
+S442193,2025-01-22 08:01:28,NURVIDA INDRIYANI,afwah herbal ( shopee ),Produk Non Premium,[SHN439] Ratulangsing,3,3,31500,38263,0,114789,Fully Invoiced,sale
+S441520,2025-01-21 07:38:56,NURVIDA INDRIYANI,afwah herbal ( shopee ),Produk Non Premium,[SH0626] Kunyit Putih RD,1,1,16979.63,20185,0,20185,Fully Invoiced,sale
+S441520,2025-01-21 07:38:56,NURVIDA INDRIYANI,afwah herbal ( shopee ),Produk Non Premium,[SH0477] Jahe Merah Inayah 330 grm,1,1,15999.25,20000,0,20000,Fully Invoiced,sale
+S441519,2025-01-21 07:37:20,NURVIDA INDRIYANI,afwah herbal ( shopee ),Produk Non Premium,[SHN062] Cuka Apel TAHESTA,2,2,42138.68,49500,0,99000,Fully Invoiced,sale
+S440921,2025-01-19 17:43:05,DENDY ARDIANSYAH,Shopee - Sehato Official,Produk Non Premium,[SHN469] Sari Kurma Madu Angkak Darussyifa,30,30,28000,28500,0,855000,Fully Invoiced,sale
+S440921,2025-01-19 17:43:05,DENDY ARDIANSYAH,Shopee - Sehato Official,Produk Premium,[SHN490] Sk. Madu Angkak TROMBOFIT 470 gr BPOM,10,10,16431.92,27500,0,275000,Fully Invoiced,sale
+S440952,2025-01-20 08:00:38,SILMI KAFFAH,Herbal Falah (SHOPEE),Produk Non Premium,[SH1394] Sabun Sereh Tazakka,3,3,7500,10290,0,30870,Fully Invoiced,sale
+S440339,2025-01-18 07:41:09,NURVIDA INDRIYANI,afwah herbal ( shopee ),Produk Non Premium,[SHN062] Cuka Apel TAHESTA,1,1,42138.68,49500,0,49500,Fully Invoiced,sale
+S440338,2025-01-18 07:38:21,NURVIDA INDRIYANI,afwah herbal ( shopee ),Produk Non Premium,[SHN105] Gold G 500 Ml  G,1,1,100170.72,125043,0,125043,Fully Invoiced,sale
+S440098,2025-01-17 12:53:23,NURVIDA INDRIYANI,afwah herbal ( shopee ),Produk Non Premium,[SHN062] Cuka Apel TAHESTA,2,2,42138.68,49500,0,99000,Fully Invoiced,sale
+S439957,2025-01-17 08:58:52,NURVIDA INDRIYANI,afwah herbal ( shopee ),Produk Non Premium,[SHN062] Cuka Apel TAHESTA,1,1,42138.68,49500,0,49500,Fully Invoiced,sale
+S439899,2025-01-17 07:45:11,NURVIDA INDRIYANI,afwah herbal ( shopee ),Produk Non Premium,[SHN062] Cuka Apel TAHESTA,2,2,42138.68,49500,0,99000,Fully Invoiced,sale
+S438686,2025-01-15 09:38:32,SILMI KAFFAH,Herbal Falah (SHOPEE),Produk Non Premium,[SH0091] Bamboo Gold Original,2,0,5220.35,5349,0,10698,Nothing to Invoice,cancel
+S438686,2025-01-15 09:38:32,SILMI KAFFAH,Herbal Falah (SHOPEE),Produk Premium,[SHN048] Chia Seed 77 200 Gram,1,0,13134.8,28500,0,28500,Nothing to Invoice,cancel
+S438540,2025-01-14 15:15:17,DENDY ARDIANSYAH,Shopee - Nyaan Shop,Produk Non Premium,[SHN025] Borneo Cofee,1,1,68683.07,91550,0,91550,Fully Invoiced,sale
+S438067,2025-01-14 08:43:01,SILMI KAFFAH,Herbal Falah (SHOPEE),Produk Non Premium,[SH0091] Bamboo Gold Original,2,0,5220.35,5349,0,10698,Nothing to Invoice,cancel
+S438026,2025-01-14 08:20:03,SILMI KAFFAH,Herbal Falah (SHOPEE),Produk Non Premium,[SH0091] Bamboo Gold Original,5,5,5220.35,5349,0,26745,Fully Invoiced,sale
+S437723,2025-01-13 13:41:12,DENDY ARDIANSYAH,Shopee - Nyaan Shop,Produk Premium,[SHN490] Sk. Madu Angkak TROMBOFIT 470 gr BPOM,5,5,16431.92,29000,0,145000,Fully Invoiced,sale
+S437723,2025-01-13 13:41:12,DENDY ARDIANSYAH,Shopee - Nyaan Shop,Produk Non Premium,[SHN504] Susu Kambing Etawalin,2,2,73834.25,80000,0,160000,Fully Invoiced,sale
+S437372,2025-01-13 07:37:31,NURVIDA INDRIYANI,afwah herbal ( shopee ),Produk Non Premium,[SHN062] Cuka Apel TAHESTA,1,1,42138.68,49500,0,49500,Fully Invoiced,sale
+S435760,2025-01-09 09:27:57,SILMI KAFFAH,Herbal Falah (SHOPEE),Produk Non Premium,[SHN497] Sum Cream Pom New,1,1,10000.6,13000,0,13000,Fully Invoiced,sale
+S435760,2025-01-09 09:27:57,SILMI KAFFAH,Herbal Falah (SHOPEE),Produk Non Premium,[SH0091] Bamboo Gold Original,1,1,5220.35,6000,0,6000,Fully Invoiced,sale
+S435745,2025-01-09 09:04:28,NURVIDA INDRIYANI,afwah herbal ( shopee ),Produk Premium,[SHN208] Lemon King 77 500 Ml BARU,1,1,21047.54,43000,0,43000,Fully Invoiced,sale
+S435742,2025-01-09 09:02:48,NURVIDA INDRIYANI,afwah herbal ( shopee ),Produk Non Premium,[SHN446] Sabun Bakung Bulat,1,1,4916.65,7000,0,7000,Fully Invoiced,sale
+S434106,2025-01-06 10:54:06,DENDY ARDIANSYAH,Shopee - Nyaan Shop,Produk Non Premium,[SHN409] Paket Ambextra Dan Unlergo,1,1,38250,44000,0,44000,Fully Invoiced,sale
